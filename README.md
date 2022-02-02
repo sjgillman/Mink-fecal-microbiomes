@@ -20,7 +20,7 @@ minkr-gmb-JoM/
   *phyloseq_srs.rds* | normalized "phyloseq.rds" object.
   **scripts/** | **Description**
   *SD4 Mink QIIME2 Pipeline.md* | bioinformatic pipeline to prepare sequences for analysis in R
-   * SD5 Mink Supplemental script.R* | code for analysis and figure creation in R.
+  * SD5 Mink Supplemental script.R* | code for analysis and figure creation in R.
   **images/**
   *gmb.png*
 
