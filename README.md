@@ -8,7 +8,7 @@ Gut microbiomes encode myriad metabolic functions critical to mammalian ecology 
 
 Directory structure | Description
 --- | ---
-minkr-gmb-JoM/
+mink-gmb-JoM/
   README.md
   **data/** | **Description**
   *SD1 Mink Metadata.tsv* | the metadata file including sampleID, stable carbon and nitrogen values, sex, etc for each sample
