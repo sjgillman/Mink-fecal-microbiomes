@@ -13,9 +13,7 @@ mink-gmb-JoM/
   **data/** | **Description**
   *SD1 Mink Metadata.tsv* | the metadata file including sampleID, stable carbon and nitrogen values, sex, etc for each sample
   *SD3_Demultiplexed_Sequences.tar.gz* | demultiplexed EMP-paired end sequences demultiplexed on QIIME2
-  *taxonomy.qza* | QIIME2 artifact
-  *rooted-tree.qza* | QIIME2 artifact created with MAFFT
-  *phyloseq.rds* | phyloseq object created with MetaFile.tsv, OTU_table.qza, taxonomy.qza, and rooted-tree.qza and used for downstream analysis in R.
+  *mink_phy_obj.rds* | phyloseq object created with MetaFile.tsv, OTU_table.qza, taxonomy.qza, and rooted-tree.qza and used for downstream analysis in R.
   **scripts/** | **Description**
   *SD4 Mink QIIME2 Pipeline.md* | bioinformatic pipeline to prepare sequences for analysis in R
   *SD5 Mink Supplemental script.R* | code for analysis and figure creation in R.
